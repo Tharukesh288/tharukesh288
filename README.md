@@ -25,9 +25,3 @@
 [Resume PDF](https://github.com/Tharukesh288/My-portfolio)
 
 
-## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
-  
-## 📚 Currently Learning
-- TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
