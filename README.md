@@ -215,7 +215,7 @@ Python Backend Developer • Computer Vision • AI • Embedded Systems
 
 # 💡 Engineering Philosophy
 
-> *"I enjoy building software that bridges AI, backend systems, and embedded hardware to solve practical, real-world problems."*
+> *"The day when i stop learning is the day i die"*
 
 ---
 
