@@ -5,7 +5,7 @@ Python Developer • Computer Vision Enthusiast • IoT Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Vision+Projects+with+YOLO+%26+MediaPipe;ESP32+%2B+IoT+Systems;Backend+Development+and+Automation;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Vision+Projects+with+YOLO+%26+MediaPipe;Backend with+%2B+FastAPI+Systems;Backend+Development+and+Automation;Always+Building+Something+New" />
 </p>
 
 ---
